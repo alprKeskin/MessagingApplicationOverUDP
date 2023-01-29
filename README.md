@@ -1,5 +1,4 @@
 # MessagingApplicationOverUDP
-Data Communication and Networking Course Project
 
 Technologies and Skills: Socket Programming, C, Network Application over UDP, Multithreading, Vagrant, Virtual Machine, Asynchronous Programming
 
